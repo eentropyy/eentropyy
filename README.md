@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eentropyy
 - 👀 I’m interested in app develop
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (https://linktr.ee/eentropyy)
 
